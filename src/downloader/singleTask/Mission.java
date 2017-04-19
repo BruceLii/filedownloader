@@ -1,12 +1,10 @@
-package singleTask;
+package downloader.singleTask;
 
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Created by liyonglin on 2017/4/17.
  */
-public class Mission {
+public class Mission extends downloader.model.BaseModel {
     public String url;//任务地址   此为主键。
     public String savedFilename;//文件名：
 

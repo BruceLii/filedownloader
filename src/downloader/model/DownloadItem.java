@@ -1,3 +1,5 @@
+package downloader.model;
+
 /**
  * Created by liyonglin on 2017/4/12.
  */

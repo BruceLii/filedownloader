@@ -1,4 +1,4 @@
-package singleTask;
+package downloader.singleTask;
 
 /**
  * Created by liyonglin on 2017/4/17.
@@ -6,6 +6,6 @@ package singleTask;
 public class LogUtils {
 
     public static void log(String tag, String msg) {
-        System.out.println("info:" + tag + "  : " + "");
+        System.out.println("info:" + tag + "  : " + msg);
     }
 }
